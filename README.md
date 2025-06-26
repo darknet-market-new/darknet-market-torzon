@@ -46,3 +46,5 @@ Remember, the darknet contains risks. Prioritize security, stay informed, and us
 ### Disclaimer:
 
 This is an educational guide. Information is presented to enhance understanding of darknet operations. We do not endorse or encourage any illegal activity. Adhere to all laws and regulations in your jurisdiction.
+
+Update:  06/26/2025 09-10 url is operational and live
